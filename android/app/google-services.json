@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129156655426",
+    "project_id": "library-system-for-students",
+    "storage_bucket": "library-system-for-students.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129156655426:android:ef045d95a0a49f975bc0db",
+        "android_client_info": {
+          "package_name": "ccsl.library_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129156655426-1gr9c2i9q2ag9dp42afn61vn5okp52rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7P-qS6uZ5jLlDka4DDMhzc-q0vCxBh8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129156655426-1gr9c2i9q2ag9dp42afn61vn5okp52rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
